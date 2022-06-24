@@ -1,0 +1,2 @@
+hello world,
+we opened this using the "nano" command which I forgot about original. 
